@@ -5,10 +5,11 @@ Sonar status : [![Quality Gate Status](https://sonarcloud.io/api/project_badges/
 **Todo App is an intuitive task checklist application to help users manage their active and completed tasks.**
 
 
+# Demo
 
+https://adorable-caramel-b81907.netlify.app
 
-## Update Notes
-**(November 6, 2022)**
+## Notes
 - Add drag and drop functionality to application
 - Fix bug where clicking done on task does not take it to completed tasks
 - Add haptics and vibration for touchscreen and mobile users
